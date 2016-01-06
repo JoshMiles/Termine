@@ -2,3 +2,5 @@ language: csharp
 solution: Termine/Termine.sln
 install:
   - nuget restore Termine/Termine.sln
+mono:
+  - alpha
