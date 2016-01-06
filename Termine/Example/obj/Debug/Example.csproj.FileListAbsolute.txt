@@ -1,0 +1,8 @@
+c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\bin\Debug\Example.exe.config
+c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\bin\Debug\Example.exe
+c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\bin\Debug\Example.pdb
+c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\bin\Debug\Termine.dll
+c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\bin\Debug\Termine.pdb
+c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\obj\Debug\Example.exe
+c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\obj\Debug\Example.pdb

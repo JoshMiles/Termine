@@ -1,0 +1,5 @@
+c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\bin\Debug\Termine.dll
+c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\bin\Debug\Termine.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\obj\Debug\Termine.dll
+c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\obj\Debug\Termine.pdb
+c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\obj\Debug\Termine.csprojResolveAssemblyReference.cache

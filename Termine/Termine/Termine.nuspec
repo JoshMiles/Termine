@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Termine</title>
+    <authors>Josh Miles</authors>
+    <owners>Josh Miles</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
+    <projectUrl>https://github.com/JoshMiles/Termine</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/JoshMiles/Termine/master/Icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The Terminal Game Engine.</description>
+    <releaseNotes>For release notes, see the Project URL.</releaseNotes>
+    <copyright>Copyright 2016 Josh Miles</copyright>
+    <tags>Termine Game Engine C#</tags>
+  </metadata>
+  <files>
+	<file src="content\*.*" target="content" />
+	<file src="tools\*.*" target="tools" />
+</files>
+</package>

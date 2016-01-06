@@ -1,0 +1,1 @@
+start "https://github.com/JoshMiles/Termine/wiki/Thank-You-For-Installing"
