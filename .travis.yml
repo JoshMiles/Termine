@@ -1,2 +1,2 @@
 language: csharp
-solution: Termine.sln
+solution: Termine/Termine.sln
