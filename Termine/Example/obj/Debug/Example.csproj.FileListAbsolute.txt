@@ -6,3 +6,6 @@ c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\bin\Debug\
 c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\bin\Debug\Termine.pdb
 c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\obj\Debug\Example.exe
 c:\Users\Joshua\documents\visual studio 2015\Projects\Termine\Example\obj\Debug\Example.pdb
+C:\Users\Joshua\Documents\Termine\Termine\Example\bin\Debug\Example.exe.config
+C:\Users\Joshua\Documents\Termine\Termine\Example\obj\Debug\Example.exe
+C:\Users\Joshua\Documents\Termine\Termine\Example\obj\Debug\Example.pdb

@@ -3,3 +3,8 @@ c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\bin\Debug\
 c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\obj\Debug\Termine.dll
 c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\obj\Debug\Termine.pdb
 c:\users\joshua\documents\visual studio 2015\Projects\Termine\Termine\obj\Debug\Termine.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Termine\Termine\Termine\bin\Debug\Termine.dll
+C:\Users\Joshua\Documents\Termine\Termine\Termine\bin\Debug\Termine.pdb
+C:\Users\Joshua\Documents\Termine\Termine\Termine\obj\Debug\Termine.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Termine\Termine\Termine\obj\Debug\Termine.dll
+C:\Users\Joshua\Documents\Termine\Termine\Termine\obj\Debug\Termine.pdb
