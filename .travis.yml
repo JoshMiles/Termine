@@ -4,3 +4,7 @@ install:
   - nuget restore Termine/Termine.sln
 mono:
   - alpha
+before_install:
+  - pip install --user codecov
+after_success:
+  - codecov
