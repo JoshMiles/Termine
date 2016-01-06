@@ -1,6 +1,15 @@
-# Termine
-This is the Terminal Game Engine.
+# The Terminal 2D Game Engine  [![Build Status](https://travis-ci.org/JoshMiles/Termine.svg?branch=master)](https://travis-ci.org/JoshMiles/Termine)
+This is the terminal game engine - and it's **free**, obviously.
 
-![](http://i.imgur.com/TZnFGFV.gif)
 
-[Go to the wiki for how-tos, the download and more!](https://github.com/JoshMiles/Termine/wiki)
+### Example Usage (v1.0.0.0)
+
+
+
+>>>![](http://i.imgur.com/TZnFGFV.gif)
+
+
+
+## [Go to the wiki for how-tos, the download and more!](https://github.com/JoshMiles/Termine/wiki)
+
+
