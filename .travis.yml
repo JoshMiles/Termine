@@ -4,6 +4,11 @@ install:
   - nuget restore Termine/Termine.sln
 mono:
   - alpha
+after_test: 
+    - .\packages\OpenCover.4.6.166\OpenCover.Console.exe -register:user -target:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe" -targetargs:"/noresults /noisolation /testcontainer:"".\Termine\Termine\bin\Debug\Termine.dll" -filter:"+[Termine]*  -[Termine]Termine.Properties.*" -excludebyattribute:*.ExcludeFromCodeCoverage* -hideskipped:All -output:.\Termine_coverage.xml
+    - "SET PATH=C:\\Python34;C:\\Python34\\Scripts;%PATH%"
+    - pip install codecov
+    - codecov -f "Termine_coverage.xml"
 before_install:
   - pip install --user codecov
 after_success:
