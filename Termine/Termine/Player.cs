@@ -57,7 +57,7 @@ namespace Termine
 
         public void checkCollison(Map m)
         {
-
+            
             int player_x = (Console.WindowWidth / 2) - (swidth) / 2;
             int player_y = (Console.WindowHeight / 2) - (sheight) / 2;
 
